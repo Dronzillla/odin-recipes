@@ -1,0 +1,28 @@
+p, li, ol, ul {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: darkred;
+}
+
+h3 {
+    color: rgb(138, 33, 33);
+}
+
+.recipe_main_photo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+}
+
+* {
+    background-color: lightgrey;
+    color: black;
+}
